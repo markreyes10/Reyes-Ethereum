@@ -1,2 +1,2 @@
 # Reyes-Ethereum
-mytokens
+Contract Tokens
