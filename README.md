@@ -1,4 +1,4 @@
-![image](https://github.com/markreyes10/Reyes-Ethereum/assets/138608160/cbc76378-8341-42c3-bede-61aa792d3a42)## REMIX ETHEREUM - CREATING TOKENS
+## REMIX ETHEREUM - CREATING TOKENS
 
 # Description
 This Solidity application shows the fundamental syntax and capabilities of the Solidity programming language by demonstrating how to create tokens, remove tokens to specific addresses, and restore balances. The goal of this program is to give individuals who are unfamiliar with Solidity a place to start learning about it.
